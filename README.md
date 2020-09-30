@@ -2,12 +2,10 @@
 
 I am a Front end developer at [Timesoft](https://github.com/timesofttechnology) from Azerbaijan, 
 
-2014 - 2019: Bachelor's degree in **Computer Engineering**, [BEU](http://www.asoiu.edu.az/en)
+2014 - 2019: Bachelor's degree in **Computer Engineering**, [BEU](http://www.beu.edu.az)
 </br>
-2020 - 2022: Master's degree in **Automation and programming**, [ASOIU](http://www.beu.edu.az)
 
 - 🌱 Soon to be an engineering professional
-- 👯 I’m looking to collaborate on open source projects
 
 ### Languages and Tools:
 
