@@ -16,6 +16,8 @@ I am a Front end developer at [Timesoft](https://github.com/timesofttechnology) 
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+<img align="left" alt="Redux" height="36px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />
+<img align="left" alt="Ant design" height="36px" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" />
 <img align="left" alt="Visual Studio Code" height="36px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/angular-icon-logo.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
