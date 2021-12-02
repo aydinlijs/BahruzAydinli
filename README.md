@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
 
-I am a Software developer at [Timesoft](https://github.com/timesofttechnology)
+I am a Software developer at [The International Bank of Azerbaijan](https://abb-bank.az)
 
 2014 - 2019: Bachelor's degree in **Computer Engineering**, [BEU](http://www.beu.edu.az)
 </br>
